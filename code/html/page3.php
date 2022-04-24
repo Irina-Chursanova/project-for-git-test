@@ -13,15 +13,14 @@
 <body>
 <?php
     error_reporting(E_ALL);
-    include_once 'code/html/header.php';
+    include_once './header.php';
 ?>
 <main>
     <div class="main-container">
-        
     </div>
 </main>
 <?php
-    include_once 'code/html/footer.php';
+    include_once './footer.php';
 ?>
 </body>
 </html>
