@@ -1,14 +1,11 @@
-<header>
-    <div class="header-container">
-        <a href="index.php" class="logo">
-            <img src="/images/logo.png" alt="logo">
-            <p>LOGO</p>
-        </a>
+<footer>
+    <div class="footer-container">
         <nav>
             <a href="/index.php">page 1</a>
             <a href="/code/html/page2.php">page 2</a>
             <a href="/code/html/page3.php">page 3</a>
             <a href="/code/html/page4.php">page 4</a>
-        </nav>
+        </nav>   
     </div>
-</header>
+    <div class="copyright">Copyright © Irina-Chursanova 2022 Все права защищены</div>
+</footer>
